@@ -1,11 +1,10 @@
 
 # To-Do-React-App
-![Screenshot-1](Screenshots/todo1.png)
 
 ## About:
 This is a simple To-Do application built with ReactJS, showcasing the use of HTML, CSS, JavaScript, framer-motion, React components, hooks, and state management using Redux and @reduxjs/toolkit. 
 
-![Screenshot-2](Screenshots/todo2.png)
+![Screenshot-1](Screenshots/todo1.png)
 
 ## Stack Used:
 
@@ -13,6 +12,8 @@ This is a simple To-Do application built with ReactJS, showcasing the use of HTM
 * CSS
 * JAVASCRIPT
 * ReactJS (hooks, redux)
+
+  ![Screenshot-2](Screenshots/todo2.png)
 
 
 ## Features
