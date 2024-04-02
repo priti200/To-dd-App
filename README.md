@@ -42,7 +42,7 @@ This is a simple To-Do application built with ReactJS, showcasing the use of HTM
 
 
 
-                                Hope You like it!!!!!!!
+                                                        Hope You like it!!!!!!!
 
 
 
