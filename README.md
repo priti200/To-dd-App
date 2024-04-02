@@ -7,7 +7,7 @@ This is a simple To-Do application built with ReactJS, showcasing the use of HTM
 
 ![Screenshot-2](Screenshots/todo2.png)
 
-###Stack Used:
+## Stack Used:
 
 * HTML
 * CSS
